@@ -25,9 +25,6 @@ body {
   align-items: center;
   background-color: var(--cream);
 }
-h1 {
-  display: none;
-}
 
 /* mobile sizing */
 .card {
@@ -47,6 +44,7 @@ picture img {
 }
 
 /* all text margins on bottom */
+h1,
 p {
   padding: 0;
   margin-top: 0;
