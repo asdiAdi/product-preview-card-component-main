@@ -25,6 +25,9 @@ body {
   align-items: center;
   background-color: var(--cream);
 }
+header {
+  display: none;
+}
 
 /* mobile sizing */
 .card {
